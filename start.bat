@@ -1,0 +1,1 @@
+mode con: cols=15 lines=1 & modecon "cmd.exe" /h:D=75000 /w:D=130000 & start /min cmd.exe /c "python logger.py"
