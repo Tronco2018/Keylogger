@@ -10,7 +10,7 @@ Go to the folder where do you run the program, you see the file "tasti.txt" (don
 open it and you have the words (it work with letters, numbers, special characters)
 
 !BUGS!
-The space don't count, I'm trying to fix it.
+*fixed*The space don't count
 
 
 -------------
